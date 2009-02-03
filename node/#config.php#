@@ -1,0 +1,12 @@
+<?php
+
+
+/*
+        The file name where various data like the time stamps of sent
+        emails should be stored. Can be any file that the guest user
+        has write access to.
+*/
+
+
+
+?>
