@@ -1,8 +1,0 @@
-Content-Type: text/plain; charset="us-ascii"
-MIME-Version: 1.0
-Content-Transfer-Encoding: 7bit
-Subject: Yo yo yo
-From: axel@example.com
-To: axel.liljencrantz@freecode.no
-
-Hej, Axel
